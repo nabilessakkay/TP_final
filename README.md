@@ -30,3 +30,6 @@ Ajoutez la cible en tant que "[PATH_TO_CHROME]\chrome.exe" --disable-web-securit
 Cliquez sur OK.
 (Pour eviter le bloque de la requete CORS)
 ```
+
+
+Nabil ESSAKKAY
