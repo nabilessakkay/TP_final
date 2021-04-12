@@ -8,13 +8,23 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11",
-    "vuetify": "^2.4.0"
+    "cors": "^2.8.5",
+    "firebase": "^8.3.1",
+    "toastr": "^2.1.4",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.1",
+    "vuetify": "^2.4.0",
+    "vuex": "^3.6.2",
+    "yelp-fusion": "^3.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
